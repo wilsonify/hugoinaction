@@ -1,5 +1,6 @@
 .idea/
 .vscode/
 *.pdf
-
+public/
+_gen/
 .hugo_build.lock
