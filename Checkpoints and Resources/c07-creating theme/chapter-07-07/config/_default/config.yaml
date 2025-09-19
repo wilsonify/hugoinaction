@@ -4,4 +4,5 @@ title: Acme Corporation
 theme: Eclectic
 enableEmoji: true
 enableGitInfo: true
-Paginate: 3
+pagination:
+  pagerSize: 3

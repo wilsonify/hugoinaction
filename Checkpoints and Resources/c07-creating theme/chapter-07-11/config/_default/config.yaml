@@ -3,4 +3,5 @@ languageCode: en-us
 title: Acme Corporation
 enableEmoji: true
 enableGitInfo: true
-Paginate: 3
+pagination:
+  pagerSize: 3
