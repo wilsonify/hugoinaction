@@ -97,7 +97,7 @@ CSS Grids are used for column arrangements in the most logical manner.
 * `Site.Params.custom_css` - Custom CSS File for overrides.
 * `Site.Params.github` - Github link for the octocat on top right.
 * `Site.Params.custom_css` - Custom CSS Overrides file.
-* `Site.Author` - Contains `facebook`, `twitter`, `github`, `email`,  `linkedin` and `name` fields.
+* `site.Params.Author` - Contains `facebook`, `twitter`, `github`, `email`,  `linkedin` and `name` fields.
 * `Site.Params.color` - Default theme color.
 * `Site.Params.description` - Default Description.
 * `Site.Params.sidebar` - Shared sidebar for all posts. Will be available under the post specific sidebar.
