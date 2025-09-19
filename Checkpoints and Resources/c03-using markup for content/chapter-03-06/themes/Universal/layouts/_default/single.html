@@ -35,7 +35,7 @@
                           {{ .Content }}
                         </div>
                         <!-- /#post-content -->
-                        {{ if .Site.DisqusShortname }}
+                        {{ if .Site.Params.disqusShortname }}
                         <div id="comments">
                             {{ template "_internal/disqus.html" . }}
                         </div>
