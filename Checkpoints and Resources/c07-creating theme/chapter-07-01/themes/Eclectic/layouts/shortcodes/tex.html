@@ -1,10 +1,11 @@
 <!-- tex -->
-{{ $inline := "" }}
+{{- $inline := "" -}}
 {{- if eq (.Get 0) "inline" -}}
-{{ $inline = "&inline=true" }}
+  {{- $inline = "&inline=true" -}}
 {{- end -}}
-{{- $json := getJSON $.Site.Params.Tex "?" (querify "q" .Inner) $inline -}}
+{{- $url := print $.Site.Params.Tex "?" (querify "q" .Inner) $inline -}}
+{{- $json := resources.GetRemote $url | transform.Unmarshal -}}
 {{- with $json.svg -}}
-{{. | safeHTML}}
+  {{ . | safeHTML }}
 {{- end -}}
 
