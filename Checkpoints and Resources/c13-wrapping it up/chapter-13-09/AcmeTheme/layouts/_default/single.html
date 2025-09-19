@@ -1,7 +1,11 @@
-{{define "bodyClass"}} 
-{{ path.Dir .Page.FirstSection.File.Path }} page 
-{{end}}
-{{define "body"}}
+{{ define "bodyClass" }}
+{{ with .Page.FirstSection.File }}
+  {{ path.Dir .Path }} page
+{{ else }}
+  page
+{{ end }}
+{{ end }}
+{{ define "body" }}
 <main>
   {{$img := .Resources.GetMatch "cover.*"}}
   {{ if $img }}
