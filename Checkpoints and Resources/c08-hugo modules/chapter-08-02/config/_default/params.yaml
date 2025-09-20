@@ -1,26 +1,30 @@
 color: "#DC2626"
-copyright: "Copyright &copy; 2022 Acme Corporation. All Rights Reserved."
+copyright: "Copyright © 2022 Acme Corporation. All Rights Reserved."
+date_format: "Jan 2, 2006"
+
 footer:
-  - title: About
-    content: >
-        Acme Corporation is the world's leading 
-        manufacturer of digital shapes. From squares and 
-        circles to triangles and hexagons, we have it all.
-        Browse through our collection of various forms with 
-        different thicknesses and line styles. We shape 
-        the world. You live in it.
+  about: >
+    Acme Corporation is the world's leading 
+    manufacturer of digital shapes. From squares and 
+    circles to triangles and hexagons, we have it all.
+    Browse through our collection of various forms with 
+    different thicknesses and line styles. We shape 
+    the world. You live in it.
 
+  recent_posts:
+    enable: true
+    count: 7   # how many to show in footer
 
-  - title: Recent Blog Posts
-    recents: blog
-    recentCount: 7
-  - title: Contact Us
-    contact: true
-  - title: Important Links
-    menu: true
+  contact:
+    enable: true
+
+  links:
+    enable: true
+
 style: blue
 logo: /image/logo.png
 logo_small: /image/logo.png
+
 about_us: >
   Acme Corporation is the world's leading manufacturer 
   of digital shapes. From squares and circles to 
@@ -28,5 +32,3 @@ about_us: >
   our collection of various forms with different 
   thicknesses and line styles. We shape the world. You 
   live in it.
-recent_posts:
-  enable: true

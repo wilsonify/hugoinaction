@@ -5,4 +5,4 @@ enableEmoji: true
 enableGitInfo: true
 pagination:
   pagerSize: 3
-theme: github.com/hugoinaction/Universal
+theme: github.com/wilsonify/hugo-universal-theme
