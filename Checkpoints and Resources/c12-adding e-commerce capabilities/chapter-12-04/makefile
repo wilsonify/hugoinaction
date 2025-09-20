@@ -20,3 +20,4 @@ build:
 
 clean:
 	rm -rf public
+	rm -f .hugo_build.lock
