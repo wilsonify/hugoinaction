@@ -5,7 +5,7 @@
     },
     "devDependencies": {
       "@easylogic/editor": "project",
-      "fuse.js": "github.com/hugoinaction/AcmeTheme"
+      "fuse.js": "github.com/wilsonify/acme-hugo-theme"
     }
   },
   "dependencies": {

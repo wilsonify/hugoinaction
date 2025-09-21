@@ -3,7 +3,7 @@
 
 .PHONY: help serve build clean all
 
-all: clean build
+all: clean deps build
 
 help:
 	@echo "Hugo Website Build Process"
@@ -11,6 +11,9 @@ help:
 	@echo "  make serve   - Run local development server"
 	@echo "  make build   - Build static site into $(PUBLIC_DIR)"
 	@echo "  make clean   - Remove generated files"
+
+deps:
+	npm install
 
 serve:
 	hugo server -D

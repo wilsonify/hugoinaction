@@ -1,0 +1,16 @@
+{
+  "name": "chapter-08-08",
+  "version": "1.0.0",
+  "description": "Adding nested dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@hotwired/turbo": "^8.0.13",
+    "fuse.js": "^6.4.6",
+    "md5": "2.3.0"
+  }
+}

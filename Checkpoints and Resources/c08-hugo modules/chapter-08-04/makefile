@@ -12,10 +12,16 @@ help:
 	@echo "  make build   - Build static site into $(PUBLIC_DIR)"
 	@echo "  make clean   - Remove generated files"
 
-serve:
+deps:
+	npm install
+
+deps:
+	npm install
+
+serve: deps
 	hugo server -D
 
-build:
+build: deps
 	hugo --minify
 
 clean:

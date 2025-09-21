@@ -1,6 +1,14 @@
+github.com/gohugoio/hugo-mod-jslibs/instantpage v0.5.1 h1:Aig+0MOPXiuQNZpnxOMS4uwUsnyq41JnQzGW4Gk3o7Y=
+github.com/gohugoio/hugo-mod-jslibs/instantpage v0.5.1/go.mod h1:N4EUbbL7Cw4Yq+GHeK3MUSiOJQbzfuUFRyvBKvnVBR8=
+github.com/hugoinaction/AcmeCommon v0.0.0-20220201175810-87390b83462d h1:fMTuPi1Xaqkk6wjTDan7Z1Lp6aIakZOCj8NlXfuOz8U=
+github.com/hugoinaction/AcmeCommon v0.0.0-20220201175810-87390b83462d/go.mod h1:C9/TZoRRcat2ivTzO1tKCA7nGni/8PyFIlvNPr3vOo4=
+github.com/hugoinaction/AcmeSupport v0.0.0-20220201175812-abfd2f9e63bb h1:/eD7Qha/pqYvcJClZxhEEL1dtfziO4OhFdJHs8GMLbQ=
 github.com/hugoinaction/AcmeSupport v0.0.0-20220201175812-abfd2f9e63bb/go.mod h1:kGNexn9VmQvIar/+RG6cW2Q1daLa/QPwWCLLX/N7gNA=
 github.com/hugoinaction/Eclectic v0.0.0-20211028054648-e00855069d1b h1:Eb+WRwrbjI4eAvQHhRze3qRoAYs2/CfDSWFf0ZA1iyQ=
 github.com/hugoinaction/Eclectic v0.0.0-20211028054648-e00855069d1b/go.mod h1:z4ORsG6K5BF+U3ssVkl+7kzy770SWHxNXfWYzdQrqGc=
-github.com/hugoinaction/Universal v0.0.0-20210709125610-ce21286916b5 h1:J1x9ysdIwztwgmFwfue591iw0JqgZfahRgs5p5d/lFM=
-github.com/hugoinaction/Universal v0.0.0-20210709125610-ce21286916b5/go.mod h1:tn5626W3c7g5nJ84Hsoe7/Oj1vT5D7xe9yyNhMe72X8=
 github.com/hugoinaction/hugo-debug-utils v0.0.0-20211028054537-1bc4208d4235/go.mod h1:YA0Taxzbbqz9oEvtMUW/uuPRE2v93r0WPMLkWaqiuBs=
+github.com/hugoinaction/hugo-debug-utils v0.0.0-20220702145907-d1ee2aca7e2f h1:dKZYPXzYt0zXGm82D3YufsaMvbPTIIV5jibKUvQcl5g=
+github.com/hugoinaction/hugo-debug-utils v0.0.0-20220702145907-d1ee2aca7e2f/go.mod h1:YA0Taxzbbqz9oEvtMUW/uuPRE2v93r0WPMLkWaqiuBs=
+github.com/instantpage/instant.page v5.1.0+incompatible/go.mod h1:GXVDktwI+K4T9o5mcK2NYDqPFxAUrB9U9goR9oG1SaI=
+github.com/wilsonify/hugo-universal-theme v0.0.0-20250920155327-de7cbadc2cce h1:s1Ykbh7qGhPkq5SFchV4K75UkXvmD6p4/SwbLltsEfE=
+github.com/wilsonify/hugo-universal-theme v0.0.0-20250920155327-de7cbadc2cce/go.mod h1:SzF2OhkStwAjWFZX0NVuWBkwwxF3vghXTjSHW/ajsj0=
