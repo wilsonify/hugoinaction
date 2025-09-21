@@ -5,5 +5,5 @@ enableEmoji: true
 enableGitInfo: true
 pagination:
   pagerSize: 3
-theme: github.com/hugoinaction/AcmeTheme
+theme: github.com/wilsonify/acme-hugo-theme
 enableRobotsTXT: true
