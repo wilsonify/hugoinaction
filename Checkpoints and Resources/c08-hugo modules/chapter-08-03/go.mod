@@ -7,7 +7,7 @@ require (
 	github.com/hugoinaction/AcmeCommon v0.0.0-20220201175810-87390b83462d // indirect
 	github.com/hugoinaction/AcmeSupport v0.0.0-20220201175812-abfd2f9e63bb // indirect
 	github.com/hugoinaction/hugo-debug-utils v0.0.0-20220702145907-d1ee2aca7e2f // indirect
-	github.com/wilsonify/acme-hugo-theme a8a9822b325f2f4a07267b7ece0e1f5bc9ba7120
+	github.com/wilsonify/acme-hugo-theme v0.0.0-20250921145659-7fc1ef27d0cc
 	github.com/wilsonify/eclectic-hugo-theme v0.0.0-20250920151503-05a6d50ccb57
 	github.com/wilsonify/hugo-universal-theme v0.0.0-20250920155327-de7cbadc2cce
 )

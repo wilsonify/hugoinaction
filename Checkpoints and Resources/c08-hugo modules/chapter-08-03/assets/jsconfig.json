@@ -3,7 +3,7 @@
   "baseUrl": ".",
   "paths": {
    "*": [
-    "../../../../../../../../../../home/thom/.cache/hugo_cache/modules/filecache/modules/pkg/mod/github.com/wilsonify/acme-hugo-theme@v0.0.0-20250921142006-aae1baccc334/assets/*"
+    "../../../../../../../../../../home/thom/.cache/hugo_cache/modules/filecache/modules/pkg/mod/github.com/wilsonify/acme-hugo-theme@v0.0.0-20250921145659-7fc1ef27d0cc/assets/*"
    ]
   }
  }

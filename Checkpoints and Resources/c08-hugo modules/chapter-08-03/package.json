@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@hotwired/turbo": "^8.0.13",
     "fuse.js": "^6.4.6",
     "md5": "2.3.0"
   }
