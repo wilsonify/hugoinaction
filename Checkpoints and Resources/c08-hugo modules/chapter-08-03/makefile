@@ -13,11 +13,12 @@ help:
 	@echo "  make clean   - Remove generated files"
 
 serve:
-	hugo server -D
+	npm install && hugo server -D
 
 build:
-	hugo --minify
+	npm install && hugo --minify
 
 clean:
 	rm -rf public
+	rm -rf node_modules
 	rm -f .hugo_build.lock

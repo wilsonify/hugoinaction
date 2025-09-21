@@ -1,0 +1,10 @@
+{
+ "compilerOptions": {
+  "baseUrl": ".",
+  "paths": {
+   "*": [
+    "../../../../../../../../../../home/thom/.cache/hugo_cache/modules/filecache/modules/pkg/mod/github.com/wilsonify/acme-hugo-theme@v0.0.0-20250921142006-aae1baccc334/assets/*"
+   ]
+  }
+ }
+}
