@@ -1,14 +1,15 @@
 {
-  "name": "chapter-12-01",
+  "name": "chapter-13-03",
   "version": "0.1.0",
-  "description": "Creating e-commerce pages",
+  "description": "Different versions using different output formats",
   "dependencies": {
+    "@sendgrid/mail": "^8.1.6",
     "mathjax": "^3.2.0",
-    "node-fetch": "2.6.1"
+    "node-fetch": "^2.7.0",
+    "stripe": "8.169.0"
   },
   "devDependencies": {
     "@easylogic/editor": "0.10.72",
-    "fuse.js": "^6.4.6",
     "@hotwired/turbo": "^8.0.13",
     "fuse.js": "^7.1.0",
     "md5": "^2.3.0"
