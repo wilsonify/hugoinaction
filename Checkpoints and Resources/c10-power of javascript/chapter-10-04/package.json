@@ -1,7 +1,7 @@
 {
-  "name": "chapter-09-01",
+  "name": "chapter-10-04",
   "version": "1.0.0",
-  "description": "Build-time vs. run-time API access",
+  "description": "Converting JavaScript to a utility controlled by the HTML code",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

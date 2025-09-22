@@ -1,13 +1,16 @@
 {
-  "comments": {
-    "dependencies": {},
-    "devDependencies": {
-      "fuse.js": "github.com/wilsonify/acme-hugo-theme"
-    }
+  "name": "chapter-10-08",
+  "version": "1.0.0",
+  "description": "Enabling client-side search",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "author": "",
+  "license": "MIT",
   "devDependencies": {
-    "fuse.js": "^6.4.6"
-  },
-  "name": "acme-corporation-website",
-  "version": "0.1.0"
+    "@hotwired/turbo": "^8.0.13",
+    "fuse.js": "^7.1.0",
+    "md5": "^2.3.0"
+  }
 }

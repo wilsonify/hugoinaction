@@ -1,7 +1,7 @@
 {
-  "name": "chapter-09-01",
+  "name": "chapter-10-01",
   "version": "1.0.0",
-  "description": "Build-time vs. run-time API access",
+  "description": "Why use JavaScript in a Hugo project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

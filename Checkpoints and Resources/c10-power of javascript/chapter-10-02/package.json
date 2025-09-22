@@ -1,7 +1,7 @@
 {
-  "name": "chapter-09-01",
+  "name": "chapter-10-02",
   "version": "1.0.0",
-  "description": "Build-time vs. run-time API access",
+  "description": "Using JavaScript to control the page flow",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
