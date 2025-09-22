@@ -9,5 +9,5 @@ github.com/hugoinaction/TermsAndPrivacy v0.0.0-20200223231951-1c7c1972007a/go.mo
 github.com/hugoinaction/hugo-debug-utils v0.0.0-20220702145907-d1ee2aca7e2f h1:dKZYPXzYt0zXGm82D3YufsaMvbPTIIV5jibKUvQcl5g=
 github.com/hugoinaction/hugo-debug-utils v0.0.0-20220702145907-d1ee2aca7e2f/go.mod h1:YA0Taxzbbqz9oEvtMUW/uuPRE2v93r0WPMLkWaqiuBs=
 github.com/instantpage/instant.page v5.1.0+incompatible/go.mod h1:GXVDktwI+K4T9o5mcK2NYDqPFxAUrB9U9goR9oG1SaI=
-github.com/wilsonify/acme-hugo-theme v0.0.0-20250921214948-9795f7c1b91b h1:NqGmvmPk6WNgrVTuUjPWnnGYdLsKNDLorS8KEF4wn5E=
-github.com/wilsonify/acme-hugo-theme v0.0.0-20250921214948-9795f7c1b91b/go.mod h1:M4jtlP/tEdOfDDHC6cmujarw1bJLoJ5Z+Q2hrMLM8kw=
+github.com/wilsonify/acme-hugo-theme v0.0.0-20250922125850-e41d0854af2f h1:fio1RL3v7ZucjYSaAfhZx4Lc6uFEF0Os5C8/c4GmHjA=
+github.com/wilsonify/acme-hugo-theme v0.0.0-20250922125850-e41d0854af2f/go.mod h1:M4jtlP/tEdOfDDHC6cmujarw1bJLoJ5Z+Q2hrMLM8kw=
