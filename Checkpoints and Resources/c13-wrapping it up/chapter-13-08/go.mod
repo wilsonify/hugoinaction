@@ -9,4 +9,4 @@ require (
 	github.com/hugoinaction/TermsAndPrivacy v0.0.0-20200223231951-1c7c1972007a // indirect
 )
 
-replace github.com/wilsonify/acme-hugo-theme => ./AcmeTheme
+
