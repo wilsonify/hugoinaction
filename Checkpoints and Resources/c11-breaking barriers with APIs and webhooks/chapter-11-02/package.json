@@ -1,24 +1,20 @@
 {
-  "comments": {
-    "dependencies": {
-      "mathjax": "project"
-    },
-    "devDependencies": {
-      "@easylogic/editor": "project",
-      "fuse.js": "github.com/wilsonify/acme-hugo-theme"
-    }
-  },
+  "name": "chapter-11-02",
+  "version": "0.1.0",
+  "description": "Adding LaTeX rendering to our website",
   "dependencies": {
-    "mathjax": "3.2.0"
+    "mathjax": "^3.2.0"
   },
   "devDependencies": {
     "@easylogic/editor": "0.10.72",
-    "fuse.js": "^6.4.6"
+    "fuse.js": "^6.4.6",
+    "@hotwired/turbo": "^8.0.13",
+    "fuse.js": "^7.1.0",
+    "md5": "^2.3.0"
   },
   "main": "api.js",
-  "name": "acme-corporation-website",
   "scripts": {
-    "start": "node api.js"
-  },
-  "version": "0.1.0"
+    "start": "node api.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
