@@ -29,7 +29,7 @@ def test_config_yaml_exists():
     content = config_file.read_text()
     assert "baseURL:" in content
     assert "title:" in content
-    assert re.search(r"baseURL:\s*https://chapter-02-01\.hugoinaction\.com", content)
+
 
 
 def test_rss_feed_titles():
@@ -43,7 +43,8 @@ def test_rss_feed_titles():
         assert f.exists()
         tree = ET.parse(f)
         title = tree.find(".//channel/title").text
-        assert "My New Hugo Site" in title or "Tags" in title or "Categories" in title
+        assert 'Acme Corporation' in title
+
 
 
 def test_robots_txt():

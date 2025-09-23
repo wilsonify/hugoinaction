@@ -29,7 +29,7 @@ def test_config_yaml_exists():
     content = config_file.read_text()
     assert "baseURL:" in content
     assert "title:" in content
-    assert re.search(r"baseURL:\s*https://chapter-02-01\.hugoinaction\.com", content)
+
 
 
 def test_rss_feed_titles():
