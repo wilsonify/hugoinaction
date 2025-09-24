@@ -21,3 +21,6 @@ build:
 clean:
 	rm -rf public
 	rm -f .hugo_build.lock
+
+test:
+	python -m pytest -v --tb=short tests

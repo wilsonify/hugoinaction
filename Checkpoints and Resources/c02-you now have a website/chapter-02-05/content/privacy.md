@@ -1,4 +1,6 @@
-Privacy Policy
+---
+title: "Privacy Policy"
+---
 
 Last updated August 19, 2019
 
