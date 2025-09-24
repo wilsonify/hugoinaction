@@ -10,5 +10,5 @@ def test_footer_sections():
     """Ensure all footer sections are present and consistent."""
     with open(YAML_FILE) as f:
         yaml_data = yaml.safe_load(f)
-    assert set(yaml_data.keys()) == set(['baseURL', 'languageCode', 'title', 'theme'])
+    assert set(yaml_data.keys()) == set(['title', 'languageCode', 'baseURL'])
     assert yaml_data["title"] == 'My New Hugo Site'

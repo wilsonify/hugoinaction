@@ -43,7 +43,7 @@ def test_rss_feed_titles():
         assert f.exists()
         tree = ET.parse(f)
         title = tree.find(".//channel/title").text
-        assert "My New Hugo Site" in title or "Tags" in title or "Categories" in title
+        assert 'Acme Corporation' in title
 
 
 def test_robots_txt():
